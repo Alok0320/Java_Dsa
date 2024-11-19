@@ -1,12 +1,5 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
-{
- int a ;
- int b;
-printf("%d",a);
-scanf("%f";a);
-
-
-
-}
+// Primitive -
+// Interger - byte(1), short(2), int(4), long(8)
+// Float - Double(8bytes), float (4bytes)
+// Characte - char(2)
+// Boolean
